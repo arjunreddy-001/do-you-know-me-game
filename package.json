@@ -1,0 +1,14 @@
+{
+  "name": "do-you-know-me-game",
+  "version": "1.0.0",
+  "description": "Javascript CLI app built on neog camp level 0 classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arjun Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
